@@ -1,5 +1,5 @@
 # PortFolio
 
-
-Check Out - <a href="dheerajpaneru.ezyro.com"/>
+<a href="dheerajpaneru.ezyro.com">
+Check Out</a>
 <a href="flipcard.ezyro.com"/>
